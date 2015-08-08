@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /_assets/images
+Disallow: /_assets/javascripts
+Disallow: /_assets/stylesheets
+Disallow: /bootstrap
+
+Sitemap: http://KevinjohnGallagher.com/sitemap.xml
