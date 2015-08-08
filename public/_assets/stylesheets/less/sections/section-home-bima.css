@@ -1,0 +1,41 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+/*
+
+	Filename: 		section-home-bima	
+	
+*/
+.html-section-id-bima-above-footer-child {
+  background-color: #222;
+  background-color: #ffcc99;
+  background-color: #ffeecc;
+  background-color: #eee;
+}
+.html-section-id-bima-above-footer-child .jumbotron,
+.html-section-id-bima-above-footer-child .container {
+  border: 0px solid red;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}

@@ -1,0 +1,38 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+/*
+
+	Filename: 		section-all-id-single-quote	
+	
+*/
+.html-section-id-single-quote-child {
+  background-color: #333;
+  color: #fff;
+}
+.html-section-id-single-quote-child .custom-section-content p {
+  text-align: center;
+  font-size: 250%;
+  margin-bottom: 3em;
+}

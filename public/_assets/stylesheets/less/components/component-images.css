@@ -1,0 +1,46 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+/*
+
+	Filename: 		component-images	
+	
+*/
+.custom-icon-as-image {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  opacity: 0.7;
+}
+.custom-section-content .custom-image-placeholder-right {
+  text-align: center;
+  margin: 0px auto 25px;
+}
+.custom-section-content .custom-image-placeholder-right img {
+  max-width: 96%;
+}
+.custom-center-content img.thumbnail {
+  display: inline;
+}

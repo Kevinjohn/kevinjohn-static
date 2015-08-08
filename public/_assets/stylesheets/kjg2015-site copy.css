@@ -1,0 +1,869 @@
+/*	@import url("_palette.css");
+	@import url("_bootstrap_overwrites.css");
+
+
+/*	@import url("_responsive.css"); */
+
+
+		
+
+
+
+
+
+
+
+
+	.html-section-class-background-image-content-child
+	{
+		background-color: 				red;
+		background-position: 			100% center;
+		background-repeat: 				no-repeat;
+		background-image: 				url("../images/jumbotron-backgrounds/background-content-test.png");
+		xbackground-size: 80px 60px;
+		background-size: 50% 300px;
+		background-position: 550px 200px;
+	}
+	
+		.background-image-content
+		{
+			background-color:  none;
+			display: 	block;
+			height: 	350px;
+
+		background-image: 				url("../images/jumbotron-backgrounds/background-content-test.png");
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: right center;
+
+
+		}
+
+
+
+
+
+
+/*==================================================
+  			   Section specific designs             
+==================================================*/
+
+
+
+
+	.html-section-id-intro-child
+	{
+
+		background: none;
+
+		background-color: 		#4cd2da;
+		xbackground-image: 		-webkit-linear-gradient(38deg, #4cd2da, #4cd2da 50%, #5adae2 50%, #5adae2 100%);
+		xbackground-image: 		-moz-linear-gradient(38deg, #4cd2da, #4cd2da 50%, #5adae2 50%, #5adae2 100%); 
+
+
+		background-color: 		#DD496D;
+		xbackground-image: 		-webkit-linear-gradient(38deg, #DD496D, #DD496D 50%, #F36853 50%, #F36853 100%);
+		xbackground-image: 		-moz-linear-gradient(38deg, #DD496D, #DD496D 50%, #F36853 50%, #F36853 100%); 
+
+
+		padding: 				100px 0px 0px;
+		
+		xbackground-image: 		url("../../_assets/images/jumbotron-backgrounds/bokeh-background-hd-93657.jpg");
+		xbackground-color: 		#999;
+		xbackground-image: 		url("../../_assets/images/jumbotron-backgrounds/background-audience-blur.png");	
+		
+		xbackground-image: 		url("../../_assets/images/jumbotron-backgrounds/clouds.jpg");
+	
+		color: white;		
+		
+			background-position: 		center center;
+			background-size: 			cover;
+		
+		
+			padding-top: 150px;
+			
+			
+			
+			background: #2c3c74;
+			background: -webkit-linear-gradient(15deg, #85BBCD 12%, #2c3c74 72%);
+			background: -moz-linear-gradient(15deg, #85BBCD 12%, #2c3c74 72%);
+			background: -o-linear-gradient(15deg, #85BBCD 12%, #2c3c74 72%);
+			background: linear-gradient(15deg, #85BBCD 12%, #2c3c74 72%);	
+			
+			border-bottom: 2px solid #000;		
+		
+	}
+	
+
+	.html-section-id-intro-child .container
+	{
+
+			padding-top: 125px;
+		
+	}
+	
+	
+
+			.html-section-id-intro-child small
+			{
+			
+				padding-bottom: 		0.6em;
+				padding-left: 			0.1em;
+				display: 				block;	
+				font-size: 				40%;	
+				
+				color: 					#999;
+			}
+
+			/*
+			.html-section-id-intro-child h1
+			{
+			
+				font-size: 				75px;	
+				xcolor:					black;
+				xtext-shadow: 			0px 0px 10px #ccc;					
+			}
+			*/
+
+
+			.html-section-id-intro-child ul
+			{
+					border: 			0px solid red;
+					margin:				0px;
+					padding: 			0px;
+					list-style: 		none;
+			}
+
+
+			.html-section-id-intro-child ul li
+			{
+				list-style: none;
+				font-size: 				16px;
+				word-spacing: 3px;
+				xletter-spacing: 1px;
+				color: 					#eee;
+				
+				padding: 				10px 0px;
+				padding-left: 			55px;
+				xbackground-image: 		url("../../_assets/images/flat-icons/flat-icon-microphone-output.png");
+				background-repeat: 		no-repeat;
+
+				background-position: 	1px center;				
+				background-size: 		25px;
+				
+			}
+			
+			
+
+
+			
+
+
+
+		.html-section-id-kevinjohn-child .jumbotron
+		{
+			xmargin: 				0px;
+			padding: 				0px;
+			xbackground-color: 		red;
+		}
+
+	
+
+		.html-section-id-generic-second-child .jumbotron
+		{
+			border: 0px solid red;
+			xpadding-bottom: 	0px;
+			margin-bottom: 		0px;
+			
+		}
+
+
+
+/* Homepage attempt */
+
+
+
+
+
+
+	
+	.custom-fake-jumbotron
+	{
+		padding-top: 			50px;
+		padding-bottom:			80px;
+		
+	}
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	blockquote
+	{
+		
+		min-height: 200px;
+		
+	}
+	
+	
+	
+	
+	.jumbotron h2
+	{
+		font-size:				45px;
+	}
+	
+	h1 .small
+	{
+		font-size: 	50%;
+	}
+
+
+	
+	
+
+	
+
+/*
+
+*/
+
+	
+/*
+
+
+*/
+
+
+		.custom-table-article-list	thead tr td
+		{
+			color: 		#ccc;
+		}
+	
+
+		.custom-table-article-list	tbody tr td
+		{
+			padding-top: 		25px;
+			padding-bottom:		25px;
+			height: 			100px;
+			
+			color: 				#999;
+		}
+
+			.custom-table-article-list	tbody tr.background td
+			{
+				color: #ddd;
+			}
+
+
+		.custom-table-article-list	tbody tr td:first-child
+		{
+			padding-left: 		30px;
+			padding-right: 		30px;
+
+		}
+
+		.custom-table-article-list	tbody tr td:last-child
+		{
+			min-width: 	125px;
+		}
+
+
+
+		.custom-table-article-list	tbody tr td h5,
+		.custom-table-article-list	tbody tr td h6
+		{
+			color: 				#333;
+			padding-bottom: 	10px;
+		}
+
+		.custom-table-article-list	tbody tr.background td h5,
+		.custom-table-article-list	tbody tr.background td h6
+		{
+			color: #fff;
+		}
+
+
+		.custom-table-article-list	tbody tr.background
+		{
+			background-color: 	#333;
+			background-color: 	#ff3399;
+			
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-image: cover;
+		}
+
+
+		
+		
+
+
+
+
+
+
+
+		.html-section-id-skill-list-child  .custom-section-content  .row
+		{
+			border-bottom: 			1px dashed #ccc;
+			padding-top: 			30px;
+			padding-bottom: 		10px;
+			
+		}
+
+			.html-section-id-skill-list-child  .custom-section-content  .row:first-child
+			{
+				padding-top: 			0px;
+				
+			}
+
+			.html-section-id-skill-list-child  .custom-section-content  .row:last-child
+			{
+				border:none;
+				
+			}
+		
+		
+
+			.html-section-id-skill-list-child .custom-section-content h4,
+			.html-section-id-skill-list-child .custom-section-content p
+			{
+				color: 	#fff;
+				text-align: right;
+				color: 	#333;
+			}
+
+			.html-section-id-skill-list-child .custom-section-content p
+			{
+				margin-bottom: 	30px;
+			}
+
+
+
+			.html-section-id-skill-list-child .custom-section-content h4
+			{
+				color: 		#DD496D;
+				color: 		#ff3399;
+				
+			}
+		
+			.html-section-id-skill-list-child .custom-section-content img
+			{
+				margin-top: 13px;
+				margin-bottom: 35px;	
+			}
+
+			.html-section-id-skill-list-child .custom-section-content img
+			{
+				width: 40px;
+				height: 40px;
+				margin-bottom: 5px;
+				margin-top: 10px;
+				opacity: 0.7;
+			}
+
+
+			
+			.html-section-id-skill-list-child h2
+			{
+				color: 			#ddd;
+				margin-top: 	11px;
+				
+				color: #999;
+				
+			}
+		
+	
+	
+
+	.html-section-class-middle-video-child
+	{
+		
+	}
+
+		.html-section-class-middle-video-child .custom-video-placeholder
+		{
+				background-color: aqua;
+				width: 			100%;
+				height: 		300px;
+				
+		}
+	
+	
+
+
+	/*
+		
+			THIS IS A HUGE HACK!!!
+		
+		*/
+
+	.jumbotron
+	{
+		padding-left: 0px;
+		padding-right: 	0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+
+
+	ul.custom-multi-column-list 
+	{
+
+		padding-left: 15px;
+	    
+	    font-size: 	22px;
+	    color: 		#666;
+	
+	    font-size: 	16px;
+	
+	
+	    -moz-column-count: 2;
+	    -moz-column-gap: 10px;
+	    -webkit-column-count: 2;
+	    -webkit-column-gap: 10px;
+	    column-count: 2;
+	    column-gap: 30px;
+
+		
+	}
+
+
+		ul.custom-multi-column-list  li
+		{
+			margin-bottom: 10px;
+		}
+
+
+
+
+	.custom-multi-column-list-logos
+	{
+		
+	}
+
+		.custom-multi-column-list-logos li
+		{
+			float:			left;
+			border: 	1px solid red;
+		}
+
+
+
+	.custom-list-icons
+	{
+		width: 			80%;
+		max-width: 		80%;
+		border: 		0px solid red;
+		margin-bottom: 		50px;
+		opacity: 			0.75;
+	}
+	
+/*
+		_responsive
+*/	
+	
+
+
+
+	
+	
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+	/*==========  Mobile First Method  ==========*/
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+
+
+			.custom-section-content p
+			{
+				text-align: 	justify;
+			}
+
+
+			.html-section-id-intro-child
+			{
+				padding-top: 0px;					
+				text-align: center;	
+				xmin-height: 	675px;
+				
+			}
+
+
+				.html-section-id-intro-child h1
+				{				
+					font-size: 				45px;
+				}
+				
+				
+				.html-section-id-intro-child .custom-image-placeholder-right
+				{
+						margin-top: 	25px;
+						margin-bottom: 	10px;
+				}
+
+
+		
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+
+
+			.html-section-id-intro-child h1
+			{
+			
+				font-size: 				55px;	
+			}
+
+				/*
+				.html-section-id-kevinjohn-child .jumbotron h2
+				{
+					font-size: 				65px;					
+				}
+				*/
+
+
+
+
+	}
+
+	/* 		Green 		*/
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+
+
+			.html-section-full
+			{
+					height: 			102%;
+					min-height: 		102%;
+					min-height: 		550px;
+					padding: 			0px;
+
+					height: 			100%;
+					min-height: 		100%;
+
+			}
+		
+				.html-section-child-full
+				{
+						height: 				100%;
+						min-height: 			550px;
+						overflow: 				hidden;
+						padding: 				0px 0px;
+		
+						-webkit-box-sizing: 	border-box;
+						-moz-box-sizing: 		border-box;
+						box-sizing: 			border-box;
+				}
+				
+				
+		
+				
+					.html-section-child-full .jumbotron
+					{			
+						margin: 			0px auto;
+						padding-top: 		0px;
+						
+						vertical-align: 	middle;
+						display: 			table-cell;			
+					}
+
+
+
+
+
+
+				.html-section-id-intro-child h1
+				{				
+					font-size: 				55px;
+				}
+				
+				
+				.html-section-id-intro-child .custom-image-placeholder-right
+				{
+						margin-top: 	25px;
+						margin-bottom: 	10px;
+				}
+
+
+
+			.html-section-id-intro-child
+			{
+				padding-top: 35px;	
+				text-align: left;				
+			}
+
+
+				.html-section-id-intro-child h1
+				{
+				
+					font-size: 				55px;	
+				}
+				
+				
+				.html-section-id-intro-child .custom-image-placeholder-right
+				{
+						margin-top: 	40px;
+				}
+
+
+
+
+
+
+			.html-section-id-kevinjohn-child .jumbotron h2
+			{
+				xfont-size: 				60px;					
+			}
+
+
+
+
+
+			.html-section-id-kevinjohn-child 	.custom-section-content 	.custom-image-placeholder-right
+			{
+				margin-top: 		40px;
+			}
+
+
+
+
+
+
+
+
+	}
+	
+	
+
+	/* 		BLUE 		*/
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+
+
+			.custom-section-content p
+			{
+				text-align: 	left;
+			}
+
+
+
+			.html-section-id-intro-child
+			{
+				padding-top: 35px;					
+			}
+
+
+				.html-section-id-intro-child h1
+				{
+				
+					font-size: 				70px;	
+				}
+				
+				
+				.html-section-id-intro-child .custom-image-placeholder-right
+				{
+					xbackground-color: gray;
+					border:  0px solid blue;
+					margin-top: 	82px;
+				}
+				
+				
+			.html-section-id-kevinjohn-child .jumbotron h2
+			{
+				font-size: 				60px;					
+			}
+	
+	
+	ul.custom-multi-column-list 
+	{
+
+    -moz-column-count: 3;
+    -moz-column-gap: 60px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 60px;
+    column-count: 3;
+    column-gap: 30px;
+    
+    font-size: 	22px;
+    color: 		#666;
+		
+	}	
+
+
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+
+
+
+			.html-section-id-intro-child h1
+			{
+			
+				font-size: 				80px;	
+			}
+
+
+				.html-section-id-kevinjohn-child .jumbotron h2
+				{
+					font-size: 				65px;					
+				}
+
+
+	}
+
+
+
+
+
+
+
+	/*==========  Specific width Method  ==========*/
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) and (max-width: 479px) {
+
+			html, body
+			{
+				background-color: 	pink;
+			}
+			
+
+			.html-section-id-intro-child
+			{
+				min-height: 	675px;
+				
+			}
+
+			
+			.jumbotron
+			{
+				padding-left: 	10px;
+				padding-right: 	10px;
+			}
+
+
+			.html-section-id-intro-points-child .custom-section-content p
+			{
+				min-height: 	70px;
+			}
+			
+			
+			.custom-section-header, 
+			.custom-section-heading 
+			{
+				margin-bottom: 30px;
+			}		
+
+
+				.custom-main-navigation ul li a,
+				.custom-main-navigation ol li a
+				{
+					border: 	0px solid red;
+					font-size: 	14px;
+					
+					xwidth: 			70px;
+					text-align: 	right;
+					width: 	auto;
+				}
+
+				.custom-main-navigation ul li a.menu-icon-only,
+				.custom-main-navigation ol li a.menu-icon-only
+				{
+					width: 			25px;
+					
+				}
+
+
+		
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) and (max-width: 767px) {
+
+			html, body
+			{
+				background-color: 	yellow;
+			}
+			
+			
+			
+
+
+			.html-section-id-intro-points-child .custom-section-content p
+			{
+				min-height: 	70px;
+			}
+			
+			
+			.custom-section-header, 
+			.custom-section-heading 
+			{
+				margin-bottom: 30px;
+			}		
+
+		
+		
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) and (max-width: 991px) {
+
+
+		html, body
+		{
+			background-color: 	green;
+		}
+
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) and (max-width: 1199px) {
+
+
+		html, body
+		{
+			background-color: 	blue;
+		}
+
+
+	}
+
+	/* Large Devices, Wide Screens */
+
+	@media only screen and (min-width : 1200px) {
+
+		html, body
+		{
+			xbackground-color: 	#999;
+		}
+
+
+	}
+
+
+
+
+
+	
+	
+	

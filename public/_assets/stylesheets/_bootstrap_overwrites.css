@@ -1,0 +1,47 @@
+
+	
+/*==================================================
+  			     Bootstrap 3 overwrites             
+==================================================*/
+	
+
+	.jumbotron
+	{
+		background: none;
+		border: 0px solid red;
+	}
+	
+		.jumbotron img
+		{
+			max-width: 		100%;
+		}
+	
+
+	.container
+	{
+		background: none;
+		border: 0px solid yellow;
+	}
+	
+	.row
+	{
+		background: none;
+		border: 0px solid green;		
+	}
+	
+	
+	
+	.carousel-indicators li
+	{
+	
+		background-color: 	#ccc;
+		border: 			1px solid #999;
+	
+	}
+
+		.carousel-indicators li.active
+		{
+			background-color: 	#333;	
+		}	
+
+

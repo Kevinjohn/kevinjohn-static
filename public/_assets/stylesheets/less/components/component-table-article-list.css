@@ -1,0 +1,32 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+.custom-table-article-list tbody tr td:first-child {
+  padding: 20px 30px;
+}
+.custom-table-article-list h5,
+.custom-table-article-list .custom-table-article-list-title {
+  font-size: 120%;
+  font-weight: bold;
+}

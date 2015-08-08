@@ -1,0 +1,177 @@
+
+/*==================================================
+=            Custom Background Colour Palette             =
+==================================================*/
+
+
+
+	/*==========  Rainbow  ==========*/
+
+	
+		.custom-background-red-light
+		{
+			background-color: 		#F56565;
+		}
+	
+		.custom-background-orange-light
+		{
+			background-color: 		#FFB339;
+		}
+	
+		.custom-background-yellow-light
+		{
+			background-color: 		#F7F6A6;
+		}
+	
+		.custom-background-green-light
+		{
+			background-color: 		#C6F5A5;
+		}
+	
+		.custom-background-blue-light
+		{
+			background-color: 		#CCDCEB;
+		}
+	
+		.custom-background-purple-light
+		{
+			background-color: 		#D4CBE0;
+		}
+	
+		.custom-background-violet-light
+		{
+			background-color: 		#E1CBE0;
+		}
+	
+		.custom-background-pink-light
+		{
+			background-color: 		#F17982;
+			
+		}
+
+
+
+
+
+	/*==========  Gradient  ==========*/
+	
+
+		.rainbow-banner
+		{
+			clear:			both;
+			height: 		3px;
+			overflow: 		hidden;
+		}	
+		
+			.rainbow-banner div
+			{
+				width: 			12.5%;
+				float:			left;		
+				height: 		100%;
+			}	
+			
+		.opacity-half
+		{
+			opacity: 	0.5;
+		}
+	
+	
+		.custom-background-gradient-zero
+		{
+			background-color: 		#F4E449;
+			color: 					#fff;
+		}
+		
+		
+		
+		.custom-background-gradient-one
+		{
+			background-color: 		#EDA34E;
+			color: 					#fff;
+		}
+	
+		.custom-background-gradient-two
+		{
+			background-color: 		#F36853;
+			color: 					#fff;
+		}
+	
+	
+		.custom-background-gradient-three
+		{
+			background-color: 		#DD496D;
+			color: 					#fff;
+		}
+	
+	
+		.custom-background-gradient-four
+		{
+			background-color: 		#A04378;
+			color: 					#fff;
+		}
+		
+		
+		.custom-background-gradient-five
+		{
+			background-color: 		#AE45A1;
+			color: 					#fff;
+		}
+		
+	
+		.custom-background-gradient-six
+		{
+			background-color: 		#2A80B9;
+			color: 					#fff;
+		}
+	
+	
+	
+	
+		.custom-heading-gradient-zero h4
+		{
+			color: 		#F4E449;
+			
+		}
+		
+		
+		
+		.custom-heading-gradient-one h4
+		{
+			color: 		#EDA34E;
+			
+		}
+	
+		.custom-heading-gradient-two h4
+		{
+			color: 		#F36853;
+			
+		}
+	
+	
+		.custom-heading-gradient-three h4
+		{
+			color: 		#DD496D;
+			
+		}
+	
+	
+		.custom-heading-gradient-four h4
+		{
+			color: 		#A04378;
+			
+		}
+		
+		
+		.custom-heading-gradient-five h4
+		{
+			color: 		#AE45A1;
+			
+		}
+		
+	
+		.custom-heading-gradient-six h4
+		{
+			color: 		#2A80B9;
+			
+		}
+		

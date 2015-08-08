@@ -1,0 +1,64 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+/*
+
+	Filename: 		section-all-carousel	
+	
+*/
+.carousel-inner .container {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.carousel {
+  margin-bottom: 60px;
+}
+.carousel-control,
+.carousel-control.left,
+.carousel-control.right {
+  background-image: none;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.0001) 0, rgba(255, 255, 255, 0.5) 100%);
+}
+.carousel-indicators {
+  bottom: 10px;
+}
+#quotes img {
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 2px;
+}
+#quotes p strong {
+  color: #ff33cc;
+  font-size: 110%;
+}
+.carousel-control .glyphicon {
+  background-repeat: no-repeat;
+}
+.carousel-control .glyphicon:before {
+  content: "";
+}

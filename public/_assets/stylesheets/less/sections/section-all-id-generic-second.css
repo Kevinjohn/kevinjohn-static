@@ -1,0 +1,38 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+img {
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+/*
+
+	Filename: 		section-all-id-generic-second	
+	
+*/
+.html-section-id-generic-second-child .jumbotron h1 {
+  color: red;
+}
+.html-section-id-generic-second-child .jumbotron h2 {
+  font-size: 45px;
+}
+.html-section-id-kevinjohn-child .jumbotron h2 {
+  font-size: 65px;
+}

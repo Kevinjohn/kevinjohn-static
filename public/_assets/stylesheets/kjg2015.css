@@ -1,0 +1,476 @@
+
+	*
+	{
+		/*
+		font-family: "comic sans", comic sans, comic-sans, helvetica, arial
+		*/
+	}
+	
+	body
+	{
+		font-size: 	15px;
+	}
+	
+	/*
+	p
+	{
+		text-align: justify;
+	}
+	*/
+
+	.custom-top-pink-bar 	{
+	
+		background-color: 	pink;
+		height: 			7px;
+		
+	}
+	
+	.custom-top-navigation
+	{
+		padding-top: 		20px;
+		padding-bottom:		20px;
+	}
+	
+	
+	.custom-jumbo-video-bar
+	{
+
+		padding-top: 			60px;
+		padding-bottom:			60px;
+		xbackground-color: 		black;
+		
+		xbackground-color: 		#ffccff;
+		background-image: 		url("../../_assets/images/jumbotron-backgrounds/bokeh-background-hd-93657.jpg");
+		background-image: 		url("../../_assets/images/jumbotron-backgrounds/background-audience-blur.png");
+
+		background-position: 	center center;
+		background-repeat: 		no-repeat;
+		/*
+		background-size: 		cover;
+		*/
+		
+		background-size: 		cover;
+		
+		padding-top: 			2%;
+		
+
+		
+		
+	}
+
+		.custom-jumbo-video-bar h1
+		{
+
+			color:					black;
+			text-shadow: 			0px 0px 8px white;
+		
+		}
+
+
+	
+	.custom-jumbo-intro-bar
+	{
+		margin:					0px;
+		background-color: 		white;
+		border-bottom: 			1px solid #eee;
+		
+	}	
+	
+		.custom-jumbo-intro-bar p
+		{
+			font-size: 20px;
+			
+		}		
+		
+		
+		
+	.custom-jumbo-calendar-bar
+	{
+		/*
+		padding-top: 			80px;
+		padding-bottom:			80px;
+		*/
+		background-color: 		pink;
+		
+		background-image: 		url("../../_assets/images/jumbotron-backgrounds/clouds.jpg");
+		background-position: 	center center;
+		background-repeat: 		no-repeat;
+		
+		background-size: 		cover;
+		
+		
+		
+	}
+
+	.custom-jumbo-calendar-bar p,
+	.custom-jumbo-calendar-bar h3	
+	{
+		color: #fff;
+	
+	}	
+	
+	
+	.custom-fake-jumbotron
+	{
+		padding-top: 			50px;
+		padding-bottom:			80px;
+		
+	}
+	
+	
+	.custom-4-attributes
+	{
+
+	}
+	
+		.custom-4-attributes p
+		{
+			min-height: 			6em;
+			display: 				block;
+			margin-bottom: 			1em;
+		}
+
+	/*	.custom-4-attributes h3, */
+		.custom-4-attributes h4
+		{
+			xbackground-color: 		red;
+			min-height: 			1.5em;
+			text-align: 			center;
+			font-size: 				20px;
+			font-size: 				19px;
+		}
+
+		.placeholder-image,
+		.custom-4-attributes img
+		{
+			width: 					50px;
+			height: 				50px;
+			margin-bottom: 			2em;
+			margin-top:				2em;
+		}
+
+
+
+		.custom-4-attributes h3
+		{
+			min-height: 			1.5em;
+			text-align: 			center;
+			font-size: 				22px;
+		}
+
+		.custom-4-attributes img
+		{
+			margin-bottom: 			1em;
+			margin-top:				2.5em;
+		}
+
+	
+	.custom-footer
+	{
+		background-color: 		black;
+		color: 					#ccc;	
+
+	}
+	
+	
+	.custom-center-text	
+	{
+		text-align: center;
+	}
+
+	/*
+	.custom-center-text p	
+	{
+		text-align: left;
+	}
+	*/
+	
+	blockquote
+	{
+		
+		min-height: 200px;
+		
+	}
+	
+	
+	.btn-primary
+	{
+		background-color: 	pink;
+		background-color: 	#ff33cc;
+		border-color: 		#cc0099;
+	}
+
+	.btn-primary:hover
+	{
+		border-color: 			#ff33cc;
+		background-color: 		#cc0099;
+	}
+	
+	
+	.jumbotron h2
+	{
+		font-size:				45px;
+	}
+	
+	
+	.carousel-inner .container
+	{
+		padding-top: 			30px;
+		padding-bottom:			50px;
+	}
+	
+	.carousel
+	{
+		border-bottom: 		1px solid #ccc;
+	}
+	
+	.carousel-control,
+	.carousel-control.left,
+	.carousel-control.right
+	{
+		background-image: 	none;
+		background-image: 	linear-gradient(to right, rgba(255,255,255,.0001) 0,rgba(255,255,255,.5) 100%);
+	}
+	
+	#quotes img
+	{
+		width: 				80px;
+		height: 			80px;
+		margin-right: 		20px;
+		margin-bottom: 		30px;
+		text-align: 		left;
+		border: 			1px solid #ccc;
+		padding: 2px;
+		
+	}
+	
+	
+	#quotes p strong
+	{
+		color: 	#ff33cc;
+		font-size: 	110%;
+	}	
+	
+	h1 .small
+	{
+		font-size: 	50%;
+	}
+
+
+	
+	
+
+	
+	
+	
+	.custom-font-color-white
+	{
+		color: 	white;	
+	}
+	
+	
+
+	
+	
+
+
+	
+	.custom-everything-is-a-jumbotron
+	{
+		padding: 	30px;
+	}
+	
+	.custom-everything-is-a-jumbotron .container
+	{
+		max-width: 	100%;
+	}
+	
+	
+	.custom-half-page-list-with-icon p
+	{
+		/*
+		xdisplay: none;
+		color: 	#eee;
+		*/
+		color: 	#333;
+	}
+	
+	.custom-half-page-list-with-icon img
+	{
+		margin-top: 13px;
+		margin-bottom: 35px;	
+	}
+	
+	.custom-half-page-list-with-icon h2
+	{
+		color: 			#ddd;
+		margin-top: 	11px;
+		
+	}
+
+	.custom-half-page-list-with-icon h4
+	{
+		
+		
+	}		
+	
+	
+	.custom-half-page-list-with-icon .container
+	{
+		padding-top: 			35px;
+		padding-bottom: 		10px;
+	}
+	
+
+	
+	
+	
+	
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+	/*==========  Mobile First Method  ==========*/
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+		
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+
+	}
+
+
+
+
+/*==================================================
+=            Custom Background Colour Palette             =
+==================================================*/
+
+
+
+	/*==========  Rainbow  ==========*/
+
+		/*
+	
+		.custom-background-red-light
+		{
+			background-color: 		#F56565;
+		}
+	
+		.custom-background-orange-light
+		{
+			background-color: 		#FFB339;
+		}
+	
+		.custom-background-yellow-light
+		{
+			background-color: 		#F7F6A6;
+		}
+	
+		.custom-background-green-light
+		{
+			background-color: 		#C6F5A5;
+		}
+	
+		.custom-background-blue-light
+		{
+			background-color: 		#CCDCEB;
+		}
+	
+		.custom-background-purple-light
+		{
+			background-color: 		#D4CBE0;
+		}
+	
+		.custom-background-violet-light
+		{
+			background-color: 		#E1CBE0;
+		}
+	
+		.custom-background-pink-light
+		{
+			background-color: 		#F17982;
+			
+		}
+		*/
+
+
+
+
+
+
+
+	/*==========  Gradient  ==========*/
+	
+	
+	
+		.custom-background-gradient-zero
+		{
+			background-color: 		#F4E449;
+			color: 					#fff;
+		}
+		
+		
+		
+		.custom-background-gradient-one
+		{
+			background-color: 		#EDA34E;
+			color: 					#fff;
+		}
+	
+		.custom-background-gradient-two
+		{
+			background-color: 		#F36853;
+			color: 					#fff;
+		}
+	
+	
+		.custom-background-gradient-three
+		{
+			background-color: 		#DD496D;
+			color: 					#fff;
+		}
+	
+	
+		.custom-background-gradient-four
+		{
+			background-color: 		#A04378;
+			color: 					#fff;
+		}
+		
+		
+		.custom-background-gradient-five
+		{
+			background-color: 		#AE45A1;
+			color: 					#fff;
+		}
+		
+	
+		.custom-background-gradient-six
+		{
+			background-color: 		#2A80B9;
+			color: 					#fff;
+		}
+/*	*/
+	
