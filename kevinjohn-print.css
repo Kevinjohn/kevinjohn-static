@@ -1,0 +1,9 @@
+body::before {
+    content: "<<< PRINT CSS LOADED >>>";
+    white-space: pre;
+}
+
+body::after {
+    content: "<<< PRINT CSS LOADED >>>";
+    white-space: pre;
+}
