@@ -1,6 +1,8 @@
 body::before {
     content: "<<< PRINT CSS LOADED >>>";
     white-space: pre;
+    background-color: red;
+    font-size:  50px;
 }
 
 body::after {
