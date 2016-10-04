@@ -45,3 +45,6 @@ area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, vi
     border: 5px dashed black;
     margin: 10em;
 }
+
+
+body>div { border: solid 10px red; }
