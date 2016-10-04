@@ -1,0 +1,26 @@
+body::before {
+    content: "<<< PRINT CSS LOADED >>>";
+    white-space: pre;
+}
+
+body::after {
+    content: "<<< PRINT CSS LOADED >>>";
+    white-space: pre;
+}
+
+header, footer
+{
+    border: 5px dashed red;
+}
+
+article
+{
+    border: 5px dashed green;
+}
+
+area, aside, audio, bdi, embed, figure, figcaption, iframe, nav, noscript, object, video
+{
+    display:block;
+    background-color: black;
+    border: 5px solid black;
+}
