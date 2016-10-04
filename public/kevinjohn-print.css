@@ -47,4 +47,6 @@ area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, vi
 }
 
 
-body>div { border: solid 10px red; }
+body>div { border: solid 10px red; 
+       margin:20px;
+}
