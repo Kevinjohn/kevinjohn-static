@@ -54,7 +54,6 @@ nav
 
 area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
 {
-    display:block;
     background-color: black;
     border: 5px dashed black;
     margin: 10em;
