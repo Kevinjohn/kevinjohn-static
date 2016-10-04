@@ -11,31 +11,37 @@ body::after {
 header, footer
 {
     border: 5px dashed red;
-    margin: 10em;
+    margin: 1em;
 }
 
 article
 {
     border: 5px dashed green;
-    margin: 10em;
+    margin: 1em;
 }
 
 section
 {
     border: 5px dashed yellow;
-    margin: 10em;
+    margin: 1em;
 }
 
 main
 {
     border: 5px dashed blue;
-    margin: 10em;
+    margin: 1em;
 }
 
-area, aside, audio, bdi, embed, figure, figcaption, iframe, nav, noscript, object, video
+nav
+{
+    border: 5px dashed purple;
+    margin: 1em;
+}
+
+area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
 {
     display:block;
     background-color: black;
-    border: 5px solid black;
+    border: 5px dashed black;
     margin: 10em;
 }
