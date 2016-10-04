@@ -11,21 +11,25 @@ body::after {
 header, footer
 {
     border: 5px dashed red;
+    margin: 10em;
 }
 
 article
 {
     border: 5px dashed green;
+    margin: 10em;
 }
 
 section
 {
-    border: 5px dashed yellow;    
+    border: 5px dashed yellow;
+    margin: 10em;
 }
 
 main
 {
-    border: 5px dashed blue;    
+    border: 5px dashed blue;
+    margin: 10em;
 }
 
 area, aside, audio, bdi, embed, figure, figcaption, iframe, nav, noscript, object, video
@@ -33,4 +37,5 @@ area, aside, audio, bdi, embed, figure, figcaption, iframe, nav, noscript, objec
     display:block;
     background-color: black;
     border: 5px solid black;
+    margin: 10em;
 }
