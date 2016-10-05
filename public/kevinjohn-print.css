@@ -8,6 +8,7 @@ body::after {
     white-space: pre;
 }
 
+/*
 header
 {
     border: 5px dashed red;
@@ -63,12 +64,22 @@ area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, vi
 body>div { border: solid 10px red; 
        margin:20px;
 }
-
+*/
 
 
 /*
     Ok, start to just be opinionated and hide things
 */
+
+main
+{
+    border:     2px solid green;    
+}
+
+article
+{
+    border:     2px solid yellow;
+}
 
 header, footer,
 nav,
