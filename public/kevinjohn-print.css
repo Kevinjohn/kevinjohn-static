@@ -63,3 +63,17 @@ area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, vi
 body>div { border: solid 10px red; 
        margin:20px;
 }
+
+
+
+/*
+    Ok, start to just be opinionated and hide things
+*/
+
+header, footer,
+nav,
+area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
+{
+    background-color: #000;
+    opacity: 0.5;   
+}
