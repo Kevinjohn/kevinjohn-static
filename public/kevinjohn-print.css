@@ -81,11 +81,9 @@ article
     border:     2px solid yellow;
 }
 
-header, footer,
-nav,
-area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
+header, footer, nav, area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
 {
     background-color: #000;
     opacity: 0.2;
-    display: none;
+    display:none;
 }
