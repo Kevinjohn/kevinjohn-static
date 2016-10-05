@@ -86,5 +86,6 @@ nav,
 area, aside, audio, bdi, embed, figure, figcaption, iframe, noscript, object, video
 {
     background-color: #000;
-    opacity: 0.2;   
+    opacity: 0.2;
+    display: none;
 }
