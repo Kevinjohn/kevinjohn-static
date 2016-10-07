@@ -103,7 +103,7 @@ section[role="region"],
 [role="presentation"]
 {
 	visibility: 	hidden;
-	display: none;
+	display: none !important;
 }
 
 main
