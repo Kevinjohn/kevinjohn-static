@@ -96,7 +96,8 @@ aside,
 video,
 audio,
 figure,
-[aria-hidden="true"]
+[aria-hidden="true"],
+section[aria-role="region"]
 {
 	visibility: 	hidden;
 }
