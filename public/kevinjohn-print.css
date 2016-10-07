@@ -96,13 +96,15 @@ aside,
 video,
 audio,
 figure,
+figure div,
+figcaption,
 [aria-hidden="true"],
 section[aria-role="region"],
 section[role="region"],
 [aria-role="presentation"],
 [role="presentation"]
 {
-	visibility: 	hidden;
+	xvisibility: 	hidden;
 	display: none !important;
 }
 
