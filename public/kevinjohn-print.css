@@ -95,7 +95,8 @@ nav,
 aside,
 video,
 audio,
-figure
+figure,
+[aria-hidden="true"]
 {
 	visibility: 	hidden;
 }
