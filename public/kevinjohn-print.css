@@ -97,7 +97,8 @@ video,
 audio,
 figure,
 [aria-hidden="true"],
-section[aria-role="region"]
+section[aria-role="region"],
+[aria-role="presentation"]
 {
 	visibility: 	hidden;
 }
