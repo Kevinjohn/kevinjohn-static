@@ -103,6 +103,7 @@ section[role="region"],
 [role="presentation"]
 {
 	visibility: 	hidden;
+	display: none;
 }
 
 main
@@ -117,4 +118,9 @@ section
 		border: 	5px solid yellow;
 		display: 	block;
 	visibility: visible;
+}
+
+div
+{
+	
 }
