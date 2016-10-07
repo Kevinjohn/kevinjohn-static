@@ -94,8 +94,7 @@ footer,
 nav,
 aside,
 video,
-audio,
-div
+audio
 {
 	visibility: 	hidden;
 }
@@ -107,7 +106,7 @@ main
 	visibility: visible;
 }
 
-body>section
+section
 {
 		border: 	5px solid yellow;
 		display: 	block;
