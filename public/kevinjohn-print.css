@@ -70,7 +70,7 @@ body>div { border: solid 10px red;
 /*
     Ok, start to just be opinionated and hide things
 */
-
+/*
 main
 {
     border:     2px solid green;    
@@ -86,4 +86,20 @@ header, footer, nav, area, aside, audio, bdi, embed, figure, figcaption, iframe,
     background-color: #000;
     opacity: 0.2;
     display:none; !important
+}
+*/
+
+header,
+footer,
+nav,
+aside,
+video,
+audio
+{
+	display:	none;
+}
+
+main
+{
+		border: 	5px solid green;
 }
