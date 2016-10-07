@@ -94,7 +94,8 @@ footer,
 nav,
 aside,
 video,
-audio
+audio,
+figure
 {
 	visibility: 	hidden;
 }
