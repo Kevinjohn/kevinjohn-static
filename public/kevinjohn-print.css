@@ -98,16 +98,19 @@ audio,
 div
 {
 	display:	none;
+	visibility: 	hidden;
 }
 
 main
 {
 		border: 	5px solid green;
 	display: 	block;
+	visibility: visible;
 }
 
 body>section
 {
 		border: 	5px solid yellow;
 		display: 	block;
+	visibility: visible;
 }
