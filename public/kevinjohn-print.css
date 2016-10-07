@@ -103,9 +103,11 @@ div
 main
 {
 		border: 	5px solid green;
+	display: 	block;
 }
 
 body>section
 {
-		border: 	5px solid yellow;	
+		border: 	5px solid yellow;
+		display: 	block;
 }
